@@ -5,6 +5,7 @@
 The idea is as follows:
 To create an individual repository for each project for ease of acess.
 
+    Project name - Linked_Repository
 1.) Project 1 - CMPG-323-Overview---34412883
 2.) Project 2 - CMPG-323-Project2_Repo
 3.) Project 3 - CMPG-323-Project3_Repo
