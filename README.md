@@ -13,3 +13,6 @@ To create an individual repository for each project for ease of acess.
 5.) Project 5 - CMPG-323-Project5_Repo
 6.) EXAM(POE) - CMPG-323-POE_Repo
 
+### Projects and Repository Integration Diagram:
+
+![Repo_Integration](https://user-images.githubusercontent.com/91745236/184120379-c9cee858-00ff-4380-bdc8-9039decfbfb3.png)
